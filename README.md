@@ -1,2 +1,1 @@
-# wdi-fundamentals-memorygame
-wdi unit 2 assignment
+# wdi_memory_game
