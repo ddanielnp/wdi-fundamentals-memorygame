@@ -30,7 +30,7 @@ var checkForMatch = function () {
 		alert("You found a match!");
 	}
 	else {
-		alert("Sorry try again");
+		alert("The cards did not match. Sorry, try again");
 	}
 };
 
